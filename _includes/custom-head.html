@@ -5,6 +5,10 @@
   2. Customize default _includes/custom-head.html in your source directory and insert the given code snippet.
 {% endcomment %}
 
+<!-- Add Font Awesome for social icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<!-- Custom styles -->
 <style>
   .site-nav {
     float: right;
@@ -20,5 +24,33 @@
 
   .site-nav .page-link:hover {
     color: #2a7ae2;
+  }
+
+  .footer-col {
+    text-align: center;
+  }
+
+  .social-links {
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: middle;
+  }
+
+  .social-links a {
+    color: #828282;
+    margin: 0 5px;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
+    text-decoration: none;
+  }
+
+  .social-links a:hover {
+    color: #2a7ae2;
+  }
+
+  .footer-col p {
+    display: inline-block;
+    margin: 0;
+    vertical-align: middle;
   }
 </style> 

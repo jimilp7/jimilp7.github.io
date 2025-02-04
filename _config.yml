@@ -1,12 +1,9 @@
 # Site settings
-title: Jimil's Digital Garden
-email: your-email@example.com
-description: >-
-  Welcome to my digital garden where I share my life experiences, 
-  technical insights, and journey through the world of technology.
+title: Jimil Patel
+email: jimilp7@gmail.com
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jimilp7.github.io"
-github_username: jimilp7
 
 # Build settings
 markdown: kramdown
@@ -17,8 +14,7 @@ plugins:
   - jekyll-sitemap
 
 # Minima theme settings
-header_pages:
-  - about.md
+header_pages: []
 
 # Collections
 collections:
