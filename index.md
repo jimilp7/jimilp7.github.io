@@ -4,7 +4,7 @@ layout: home
 
 # Hello, I'm Jimil! 👋
 
-Startup Enthusiast and Software Engineer. Currently building Sophi 👩‍💻 ([@sophi.app](https://sophi.app)). I write about my thoughts, life experiences and technical insights.
+Tech Enthusiast and Software Engineer. Currently building Sophi 👩‍💻 ([@sophi.app](https://sophi.app)). I write about my thoughts, life experiences and technical insights.
 
 ## 📝 Latest Posts
 
