@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to My Digital Garden 🌱"
-date: 2024-02-03 12:00:00 -0500
+date: 2025-02-03 12:00:00 -0500
 categories: personal
 tags: [introduction, personal, blogging]
 ---

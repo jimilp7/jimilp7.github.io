@@ -24,9 +24,9 @@ This is where I showcase my work, share my thoughts through blog posts, and conn
 ## ✨ Recent Blog Posts
 
 - [You are a lifechanging decision away, learn to recognize it](https://jimilp7.github.io/personal/2025/02/07/learn-to-recognize.html)
-- [Welcome to My Digital Garden 🌱](https://jimilp7.github.io/personal/2024/02/03/welcome-to-my-digital-garden.html)
+- [Welcome to My Digital Garden 🌱](https://jimilp7.github.io/personal/2025/02/03/welcome-to-my-digital-garden.html)
 
 ## 📄 License
 
 Content on this site is licensed under MIT License unless otherwise noted.
-Copyright © 2024 Jimil Patel
+Copyright © 2025 Jimil Patel
