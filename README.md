@@ -1,40 +1,32 @@
-# Personal Portfolio & Blog
+# Jimil Patel - Personal Website
 
-Welcome to my personal corner of the internet! This repository hosts my personal website and blog, built with Jekyll and hosted on GitHub Pages.
+Welcome! 👋 This repository hosts my personal website and blog where I share my thoughts, projects, and experiences in software engineering and personal growth.
 
-## 🚀 Quick Start
+## 🌐 Visit My Website
 
-1. Install Ruby and Bundler
-2. Clone this repository
-3. Run `bundle install`
-4. Run `bundle exec jekyll serve` for local development
-5. Visit `http://localhost:4000`
+[jimilp7.github.io](https://jimilp7.github.io)
 
-## 📂 Structure
+## 💡 About
 
-```
-.
-├── _posts/          # Blog posts
-├── _pages/          # Static pages
-├── _layouts/        # HTML templates
-├── _includes/       # Reusable components
-├── assets/          # Static assets (images, CSS, JS)
-└── _config.yml      # Site configuration
-```
+This is where I showcase my work, share my thoughts through blog posts, and connect with the tech community. You'll find:
 
-## 📝 Creating New Posts
+- 📝 Blog posts about software engineering, personal growth, and life experiences
+- 💼 Portfolio of my projects and contributions
+- 🔧 Technical writings and tutorials
+- 🤝 Ways to connect with me
 
-Create a new file in `_posts` directory with the format:
-`YYYY-MM-DD-title.md`
+## 🤝 Connect With Me
 
-## 🛠 Technologies
+- 📫 [Email](mailto:jimilp7@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jimilp7/)
+- 💻 [GitHub](https://github.com/jimilp7)
 
-- Jekyll
-- HTML5 & CSS3
-- JavaScript
-- SASS
-- GitHub Pages
+## ✨ Recent Blog Posts
+
+- [You are a lifechanging decision away, learn to recognize it](https://jimilp7.github.io/personal/2025/02/07/learn-to-recognize.html)
+- [Welcome to My Digital Garden 🌱](https://jimilp7.github.io/personal/2024/02/03/welcome-to-my-digital-garden.html)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Content on this site is licensed under MIT License unless otherwise noted.
+Copyright © 2024 Jimil Patel
