@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You are a lifechanging decision away, learn to recognize it"
+title: "You are a lifechanging decision away"
 date: 2025-02-07 05:07:54 -0500
 categories: [personal]
 tags: [life, experiences]

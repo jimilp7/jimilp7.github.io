@@ -23,7 +23,7 @@ This is where I showcase my work, share my thoughts through blog posts, and conn
 
 ## ✨ Recent Blog Posts
 
-- [You are a lifechanging decision away, learn to recognize it](https://jimilp7.github.io/personal/2025/02/07/learn-to-recognize.html)
+- [You are a lifechanging decision away](https://jimilp7.github.io/personal/2025/02/07/learn-to-recognize.html)
 - [Welcome to My Digital Garden 🌱](https://jimilp7.github.io/personal/2025/02/03/welcome-to-my-digital-garden.html)
 
 ## 📄 License
