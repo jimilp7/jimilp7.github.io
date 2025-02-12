@@ -4,6 +4,7 @@ title: "You are a lifechanging decision away"
 date: 2025-02-07 05:07:54 -0500
 categories: [personal]
 tags: [life, experiences]
+permalink: /personal/2025/02/07/you-are-a-lifechanging-decision-away.html
 ---
 
 I am an intensively reflective person. Recently, I am learning how insightful it is to question everything in life. Correlated to this, is first principles thinking as Aristotle famously laid the principle in his works "Metaphysics" - "The first principle is the first basis from which a thing is known"
