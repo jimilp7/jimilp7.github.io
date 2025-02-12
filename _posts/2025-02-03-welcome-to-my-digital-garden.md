@@ -28,9 +28,9 @@ In the coming months, I'll be sharing:
 
 ## Let's Connect 💻
 
-- <i class="fas fa-envelope"></i> [jimilp7@gmail.com](mailto:jimilp7@gmail.com)
-- <i class="fab fa-github"></i> [@jimilp7](https://github.com/jimilp7)
-- <i class="fab fa-linkedin"></i> [@jimilp7](https://www.linkedin.com/in/jimilp7/)
+- Email: [jimilp7@gmail.com](mailto:jimilp7@gmail.com)
+- GitHub: [@jimilp7](https://github.com/jimilp7)
+- LinkedIn: [@jimilp7](https://www.linkedin.com/in/jimilp7/)
 
 ---
 
