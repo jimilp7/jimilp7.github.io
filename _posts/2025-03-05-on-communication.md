@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "On Communication"
-date: 2025-02-25 12:00:00 -0500
+date: 2025-03-05 12:00:00 -0500
 categories: [personal]
 tags: [communication, leadership, workplace]
-permalink: /personal/2025/02/25/communication-at-the-workplace.html
+permalink: /personal/2025/03/05/on-communication.html
 ---
 
 ## Power of communication
