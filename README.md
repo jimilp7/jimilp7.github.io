@@ -23,6 +23,7 @@ This is where I showcase my work, share my thoughts through blog posts, and conn
 
 ## ✨ Recent Blog Posts
 
+- [On Communication](https://jimilp7.github.io/personal/2025/03/05/on-communication.html)
 - [You are a lifechanging decision away](https://jimilp7.github.io/personal/2025/02/07/you-are-a-lifechanging-decision-away.html)
 - [Welcome to My Digital Garden 🌱](https://jimilp7.github.io/personal/2025/02/03/welcome-to-my-digital-garden.html)
 
