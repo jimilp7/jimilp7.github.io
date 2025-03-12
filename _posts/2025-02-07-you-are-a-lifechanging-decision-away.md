@@ -27,8 +27,6 @@ One of the most underrated life lessons I have learned recently, is to learn fro
 
 But you won't be able to do this without taking some time and putting effort into gathering those facts, and taking the time to carefully watch the situation unfold and reflect upon it. 
 
-An example of this is, recently I had someone close to me go through a divorce. Since I am close to the person, I was able to gain all the context/truth regarding this situation, and I also aspired to dig for these truths, which paid dividends later. Once I had all the facts relating to this, I closely reflected from an outsiders perspective, and I discovered since I gathered more truths regarding the situation, I discovered some interesting facts regarding human relationships that I never had a perspective on before. Throughout this process, I questioned everything, and tried to build a mind map of the truth, which led me find more truths about human relationships. It enabled me to draw several insights and life lessons for myself which could help me be more successful in pursuing relationships be it in my personal life, at work, in family, or anywhere in life.
-
 Steve Jobs once questioned - why do we need physical keyboards on a phone? which led to one of the most profound breakthroughs in tech and mobile computing. Out of that question, the iPhone was born. Today, Apple sells over 200 Million iPhones every year.
 
 ## Life is like a movie
